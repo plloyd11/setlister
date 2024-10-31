@@ -1,0 +1,8 @@
+{
+	"/": [
+		"src/routes/+page.server.ts"
+	],
+	"/setlist/[id]": [
+		"src/routes/setlist/[id]/+page.server.ts"
+	]
+}
